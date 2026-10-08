@@ -1,0 +1,28 @@
+Epoch 1/10
+3/3 [==============================] - 1s 18ms/step - loss: 0.6934 - accuracy: 0.3333
+Epoch 2/10
+3/3 [==============================] - 0s 17ms/step - loss: 0.6856 - accuracy: 0.6667
+Epoch 3/10
+3/3 [==============================] - 0s 17ms/step - loss: 0.6786 - accuracy: 0.6667
+Epoch 4/10
+3/3 [==============================] - 0s 17ms/step - loss: 0.6717 - accuracy: 1.0000
+Epoch 5/10
+3/3 [==============================] - 0s 18ms/step - loss: 0.6643 - accuracy: 1.0000
+Epoch 6/10
+3/3 [==============================] - 0s 17ms/step - loss: 0.6561 - accuracy: 1.0000
+Epoch 7/10
+3/3 [==============================] - 0s 18ms/step - loss: 0.6469 - accuracy: 1.0000
+Epoch 8/10
+3/3 [==============================] - 0s 18ms/step - loss: 0.6362 - accuracy: 1.0000
+Epoch 9/10
+3/3 [==============================] - 0s 17ms/step - loss: 0.6237 - accuracy: 1.0000
+Epoch 10/10
+3/3 [==============================] - 0s 18ms/step - loss: 0.6090 - accuracy: 1.0000
+1/1 [==============================] - 0s 64ms/step - loss: 0.5737 - accuracy: 1.0000
+Test loss: 0.5737178320884705
+Test accuracy: 1.0
+Text: This movie is fantastic
+Sentiment: Positive
+
+Text: I hated the acting in this film
+Sentiment: Negative

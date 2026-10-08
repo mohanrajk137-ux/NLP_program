@@ -1,0 +1,10 @@
+Named Entity Recognition Result:
+[('Barack', 'NNP'), ('Obama', 'NNP'), ('was', 'VBD'), 
+ ('the', 'DT'), ('44th', 'JJ'), ('President', 'NNP'), 
+ ('of', 'IN'), ('the', 'DT'), ('United', 'NNP'), 
+ ('States', 'NNPS'), ('.', '.'), ('He', 'PRP'), 
+ ('was', 'VBD'), ('born', 'VBN'), ('in', 'IN'), 
+ ('Hawaii', 'NNP'), ('.', '.')]
+
+Extracted Named Entities:
+[('Barack Obama', 'PERSON'), ('President United States', 'ORGANIZATION'), ('Hawaii', 'GPE')]

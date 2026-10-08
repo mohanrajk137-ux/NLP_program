@@ -1,0 +1,7 @@
+LSA Topics:
+Topic 1: sky, blue, beautiful, lazy, quick
+Topic 2: bacon, sausages, ham, eggs, brown
+
+LDA Topics:
+Topic 1: brown, dog, quick, lazy, fox
+Topic 2: eggs, bacon, ham, sausages, love

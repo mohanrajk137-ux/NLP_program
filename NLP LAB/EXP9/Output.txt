@@ -1,0 +1,8 @@
+Sentence: I love using natural language processing!
+Label: POSITIVE, Confidence: 0.9991
+
+Sentence: This is the worst movie I have ever watched.
+Label: NEGATIVE, Confidence: 0.9987
+
+Sentence: The food was okay, nothing special.
+Label: NEUTRAL / POSITIVE, Confidence: 0.6504

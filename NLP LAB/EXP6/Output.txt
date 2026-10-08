@@ -1,0 +1,2 @@
+Predicted labels for the test sentence: ['B-PER', 'O', 'O', 'B-LOC', 'I-LOC']
+Expected labels: ['B-PER', 'O', 'O', 'B-LOC', 'I-LOC']

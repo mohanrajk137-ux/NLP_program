@@ -1,0 +1,11 @@
+OUTPUT
+('i', 'love') -> 2
+('love', 'natural') -> 1
+('natural', 'language') -> 1
+('language', 'processing') -> 1
+('processing', 'and') -> 1
+('and', 'i') -> 1
+('love', 'python') -> 1
+('python', 'programming') -> 1
+
+Next word after 'love' is likely 'natural'

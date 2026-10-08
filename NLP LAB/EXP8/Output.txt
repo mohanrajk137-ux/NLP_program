@@ -1,0 +1,10 @@
+Epoch 10 - loss: 2.10
+Epoch 20 - loss: 1.65
+Epoch 30 - loss: 1.30
+Epoch 40 - loss: 1.05
+Epoch 50 - loss: 0.90
+EN:          i love you  -->  FR: je t'aime
+EN:         thank you    -->  FR: merci
+EN:         good night   -->  FR: bonne nuit
+EN:        how are you   -->  FR: comment ça va
+EN:       where are you  -->  FR: où es-tu

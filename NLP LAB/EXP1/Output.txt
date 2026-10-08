@@ -1,0 +1,17 @@
+Original Text:
+This is an example sentence. It demonstrates basic text processing operations.
+
+Tokens:
+['This', 'is', 'an', 'example', 'sentence', '.', 'It', 'demonstrates', 'basic', 'text', 'processing', 'operations', '.']
+
+Sentences:
+['This is an example sentence.', 'It demonstrates basic text processing operations.']
+
+Filtered Tokens (after stopword removal):
+['This', 'example', 'sentence', '.', 'It', 'demonstrates', 'basic', 'text', 'processing', 'operations', '.']
+
+Stemmed Tokens:
+['thi', 'exampl', 'sentenc', '.', 'It', 'demonstr', 'basic', 'text', 'process', 'oper', '.']
+
+Lemmatized Tokens:
+['This', 'example', 'sentence', '.', 'It', 'demonstrates', 'basic', 'text', 'processing', 'operation', '.']
